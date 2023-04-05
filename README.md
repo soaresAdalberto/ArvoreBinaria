@@ -1,4 +1,4 @@
-# Arvore Binaria de Pesquisa
+# Árvore Binária de Pesquisa
 
 
 Implementação de uma TAD para representar a árvore binária de pesquisa, com as seguintes solicitações:
